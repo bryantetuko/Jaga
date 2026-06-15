@@ -1,2 +1,2 @@
 # Jaga
-Jaga is a babysitter marketplace mobile application that connects parents with verified and experienced babysitters through a flexible hourly, daily, weekly, or subscription-based booking system.
+UI/UX prototype of a babysitter marketplace application that helps parents find trusted babysitters through flexible booking and safety-focused features.
